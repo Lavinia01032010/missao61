@@ -1,0 +1,1 @@
+select distinct nome from itens;
